@@ -1,4 +1,4 @@
 name: KLink
-main: bytecode.ninja.klink.server.KLinkServer
+main: bytecode.ninja.klink.bungee.KLinkBungee
 version: 1.0
 author: cyberpwn
