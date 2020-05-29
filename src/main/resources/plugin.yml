@@ -1,0 +1,4 @@
+name: KLink
+version: 1.0
+main: bytecode.ninja.klink.node.KLinkNode
+author: cyberpwn

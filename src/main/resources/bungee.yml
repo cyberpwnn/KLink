@@ -1,0 +1,4 @@
+name: KLink
+main: bytecode.ninja.klink.server.KLinkServer
+version: 1.0
+author: cyberpwn
